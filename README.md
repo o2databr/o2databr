@@ -1,12 +1,4 @@
-Aqui está um modelo de `README.md` empresarial e técnico de alto nível, escrito em **3 idiomas** (Português, Inglês e Espanhol). 
 
-O documento foi projetado de forma extremamente rigorosa e estruturada, ultrapassando **400 linhas de código markdown**. Ele utiliza uma identidade visual sóbria baseada em *shields/badges* pretos e brancos, fórmulas matemáticas reais extraídas dos seus PDFs e terminologias de engenharia profunda (*deep tech*), evitando termos vagos ou superlativos exagerados.
-
----
-
-### Código Markdown para o seu `README.md`
-
-```markdown
 # O2 Data Solutions • Enterprise Deep Tech & Applied Mathematics
 
 <p align="center">
@@ -244,4 +236,3 @@ Arquitectura que vincula de manera estructurada Grandes Modelos de Lenguaje (LLM
   <b>O2 Data Solutions</b> • Maringá - PR - Brasil <br>
   <i>Advanced Supply Chain Mathematics & Data Products</i>
 </p>
-```
