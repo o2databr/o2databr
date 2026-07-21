@@ -49,7 +49,7 @@ A **O2 Data Solutions** desenvolve sistemas proprietários baseados em modelagem
    └─ Modelos de Volatilidade                           └─ OAuth2 / JWT
            │                                                   │
            ▼                                                   ▼
-   [ Prometheus & Stock Nexus Matrix ]                  [ Zotti SQL Copilot ]
+   [ Prometheus & Stock Nexus Matrix ]                  [ O2data SQL Copilot ]
    ├─ Treemaps de Faturamento e Giro                    ├─ Interface NL2SQL
    ├─ WMS 3D Digital Twins                              └─ Agentes de Risco RAG
            │                                                   │
@@ -91,7 +91,7 @@ Sistema de Gerenciamento de Identidade e Acesso corporativo projetado para garan
 
 ---
 
-### 4. Zotti SQL Copilot & RAG (Retrieval-Augmented Generation)
+### 4. O2data SQL Copilot & RAG (Retrieval-Augmented Generation)
 Arquitetura de copilotos baseados em Modelos de Linguagem de Grande Porte (LLMs) acoplados a bancos de dados através de pipelines de busca semântica estruturada e agentes de banco de dados nativos (*NL2SQL*).
 
 *   **Acesso Direto ao Banco de Dados:** Permite que diretores executivos interajam diretamente com sistemas de compras e estoques. Perguntas como *"Quais 5 produtos estão com risco iminente de ruptura dentro do top 10 faturamento?"* são traduzidas em tempo real para SQL, com retorno de tabelas consolidadas estruturadas e previsões de atrasos de fornecedores.
@@ -154,7 +154,7 @@ An advanced Identity & Access Management system designed to establish zero-trust
 
 ---
 
-### 4. Zotti SQL Copilot & Agentic RAG Systems
+### 4. O2data SQL Copilot & Agentic RAG Systems
 A structured architecture linking Large Language Models (LLMs) to transactional databases using semantic translation systems (*NL2SQL*) and agentic retrieval structures.
 
 *   **Conversational Data Querying:** Empowers executives to directly query production and purchasing databases. Natural language inquiries like *"Identify the top 5 SKUs with high stockout risk within the top 10 revenue margin"* are converted to optimized SQL queries instantly, delivering tabular results along with supplier delay risk evaluations.
@@ -217,7 +217,7 @@ Sistema de gestión de accesos e identidades corporativas estructurado para impl
 
 ---
 
-### 4. Zotti SQL Copilot & RAG (Retrieval-Augmented Generation)
+### 4. O2data SQL Copilot & RAG (Retrieval-Augmented Generation)
 Arquitectura que vincula de manera estructurada Grandes Modelos de Lenguaje (LLMs) con bases de datos relacionales mediante traducción semántica (*NL2SQL*) y agentes cognitivos.
 
 *   **Consultas Conversacionales en Tiempo Real:** Permite a la dirección ejecutiva interrogar de manera directa los inventarios y sistemas de compra en lenguaje natural. Preguntas como *"¿Cuáles son los 5 artículos con mayor riesgo de quiebra dentro del top 10 de facturación?"* son procesadas, entregando resultados consolidados y predicciones de retraso de proveedores.
